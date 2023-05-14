@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\sor-repos\\Drugdealer\\MyAwesomeMod\\Drugdealer.csproj": {}
+  },
+  "projects": {
+    "D:\\sor-repos\\Drugdealer\\MyAwesomeMod\\Drugdealer.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "D:\\sor-repos\\Drugdealer\\MyAwesomeMod\\Drugdealer.csproj",
+        "projectName": "drugdealer",
+        "projectPath": "D:\\sor-repos\\Drugdealer\\MyAwesomeMod\\Drugdealer.csproj",
+        "packagesPath": "C:\\Users\\p'y'y\\.nuget\\packages\\",
+        "outputPath": "D:\\sor-repos\\Drugdealer\\MyAwesomeMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\p'y'y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net471"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net471": {
+            "targetAlias": "net471",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net471": {
+          "targetAlias": "net471",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
